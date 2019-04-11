@@ -1,0 +1,51 @@
+body{
+	background-position: top;
+	background-image: url(spacebetween.jpg);
+	background-size: cover;
+}
+h2{
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 400px;
+	margin-left: 850px;
+	border-bottom: solid 1px pink;
+	
+}
+
+h2:hover{
+
+	border-bottom: solid 2px pink;
+	
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+
+ 
+}
+
+
+
+.btn-dark {
+
+	
+	margin-top: 300px;
+	margin-left: 505px;
+	background-color: black;
+	border-radius: 150px 35px 150px;
+	transition: 1s;
+
+
+}
+
+.btn-dark:hover {
+  background-color: rgb(126, 62, 144);
+  border-color: black;
+  border-width: 5px;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+
